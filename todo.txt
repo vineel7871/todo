@@ -1,0 +1,7 @@
+calling rishi
+extending todo application features
+solving problems from eulers website
+learning from bs4 library
+builtin datatype int
+builtin datatype float
+mathematical foundations probability theory
